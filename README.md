@@ -16,10 +16,10 @@
     </td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=O8mDsIyQ21E">
-        <img src="https://img.youtube.com/vi/O8mDsIyQ21E/0.jpg" alt="2차 시연영상" width="300"/>
+        <img src="https://img.youtube.com/vi/O8mDsIyQ21E/0.jpg" alt="최종 시연영상" width="300"/>
       </a>
       <br>
-      <b>2차 시연 영상</b>
+      <b>최종 시연 영상</b>
     </td>
   </tr>
 </table>
