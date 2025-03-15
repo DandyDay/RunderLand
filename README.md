@@ -5,11 +5,24 @@
 
 ## 🎥 데모 영상
 
-[![1차 시연영상](https://img.youtube.com/vi/WNS9c8TE59s/0.jpg)](https://www.youtube.com/watch?v=WNS9c8TE59s)  
-**1차 시연 영상**  
-
-[![2차 시연영상](https://img.youtube.com/vi/O8mDsIyQ21E/0.jpg)](https://www.youtube.com/watch?v=O8mDsIyQ21E)  
-**2차 시연 영상** 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=WNS9c8TE59s">
+        <img src="https://img.youtube.com/vi/WNS9c8TE59s/0.jpg" alt="1차 시연영상" width="300"/>
+      </a>
+      <br>
+      <b>1차 시연 영상</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=O8mDsIyQ21E">
+        <img src="https://img.youtube.com/vi/O8mDsIyQ21E/0.jpg" alt="2차 시연영상" width="300"/>
+      </a>
+      <br>
+      <b>2차 시연 영상</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
