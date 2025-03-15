@@ -85,7 +85,7 @@ else
 - 기록된 러닝 경로를 기반으로 **아바타와 함께 러닝 가능**  
 - **GPX 표준 파일 형식 채택 → 다른 러닝 앱과 호환 가능**  
 
-<img width="1359" alt="러닝 기록 예시" src="https://github.com/user-attachments/assets/e524cc3b-a094-4061-a066-144912854cd9" />
+<img width="725" alt="러닝 기록 예시" src="https://github.com/user-attachments/assets/e524cc3b-a094-4061-a066-144912854cd9" />
 
 📌 **결과:**  
 러닝 기록을 체계적으로 관리할 수 있으며, 타 앱과의 연동성을 확보함.
